@@ -3,7 +3,6 @@
 **Interactive Tableau dashboard analyzing Kaggle e-commerce sales data with dynamic KPI switching, category performance, and trend insights.**
 
 ![Dashboard Screenshot](https://github.com/AutumnsData/Tableau/blob/3634f48ec8e4299a30fffcb56b3d785ae8bd20a7/Ecommerce-Sales-Tableau/screenshots/Finished%20Tableau%20Dashboard.jpg)  
-*(Add a high-quality screenshot of your full dashboard here)*
 
 ## 📊 Live Dashboard
 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Ecommerce-Sales-Dashboard_17765480469650/ExecutiveOverview)
